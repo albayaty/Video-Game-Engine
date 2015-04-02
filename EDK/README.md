@@ -16,6 +16,6 @@ Fulbright Scholar, MSEE '14
 
 ==========================
 		
-		EDK files: NES Controller, VGA (20x15 & 40x30) resolutions
+		EDK files: NES Controller, VGA (20x15 & 40x30 resolutions)
 
 ==========================
