@@ -15,3 +15,7 @@ University of New Haven
 Fulbright Scholar, MSEE '14
 
 ==========================
+		
+		EDK: VGA (20x15 resolution)
+
+==========================
