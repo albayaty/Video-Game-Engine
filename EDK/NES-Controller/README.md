@@ -1,16 +1,10 @@
-# Video Game Engine Project
-
-EE659: System-On-Chip
+# VGEP (Video Game Engine Project)
 
 GNU GPL v3
 
 ==========================
 
-MSEE student:    Ali M. Al-Bayaty
-
-Project advisor:  Christopher Martinez, Ph.D.
-
-University of New Haven
+By: Ali Al-Bayaty
 
 Fulbright Scholar, MSEE '14
 
